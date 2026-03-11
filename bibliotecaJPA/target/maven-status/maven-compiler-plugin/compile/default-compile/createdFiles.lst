@@ -1,0 +1,7 @@
+Entidades\Autor.class
+Entidades\Categoria.class
+com\mycompany\bibliotecajpa\BibliotecaJPA.class
+Entidades\Credencial.class
+Entidades\Usuario.class
+Entidades\Libro.class
+Entidades\Libro_Categoria.class
